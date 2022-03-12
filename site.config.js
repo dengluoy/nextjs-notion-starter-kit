@@ -23,7 +23,7 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'Dww-s-Blog-3d43ef1bf6e6402db0f7da955d7bd9e6',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 

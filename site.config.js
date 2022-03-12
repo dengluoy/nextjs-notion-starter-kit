@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'ccda9c48329b4fd6902f21203ddfedef',
+  rootNotionPageId: 'Dww-s-Blog-7b2d2885a9ff4a83a3195c36fd60aab9',
 // https://azure-toucan-6ad.notion.site/ccda9c48329b4fd6902f21203ddfedef
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'David 说',
-  domain: 'https://azure-toucan-6ad.notion.site/ccda9c48329b4fd6902f21203ddfedef',
+  domain: 'https://azure-toucan-6ad.notion.site/Dww-s-Blog-7b2d2885a9ff4a83a3195c36fd60aab9',
   author: 'Dww',
 
   // open graph metadata (optional)
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'https://github.com/dengluoy',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: 'dengluoy',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

@@ -1,14 +1,13 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Dww-s-Blog-3d43ef1bf6e6402db0f7da955d7bd9e6',
+  rootNotionPageId: 'Dww-Blog-3d43ef1bf6e6402db0f7da955d7bd9e6',
 // https://azure-toucan-6ad.notion.site/ccda9c48329b4fd6902f21203ddfedef
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
-
   // basic site info (required)
   name: 'David 说',
-  domain: 'https://azure-toucan-6ad.notion.site/Dww-s-Blog-3d43ef1bf6e6402db0f7da955d7bd9e6',
+  domain: 'https://azure-toucan-6ad.notion.site/',
   author: 'Dww',
 
   // open graph metadata (optional)
